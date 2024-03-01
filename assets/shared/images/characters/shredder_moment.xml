@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shredder_moment.png">
+<SubTexture name="shred idle0000" x="395" y="600" width="373" height="528" frameX="-384" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0001" x="479" y="0" width="377" height="573" frameX="-387" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0002" x="768" y="600" width="372" height="527" frameX="-386" frameY="-150" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0003" x="395" y="600" width="373" height="528" frameX="-384" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0004" x="0" y="600" width="395" height="535" frameX="-379" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0005" x="395" y="600" width="373" height="528" frameX="-384" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0006" x="395" y="600" width="373" height="528" frameX="-384" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred idle0007" x="395" y="600" width="373" height="528" frameX="-384" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred left0000" x="0" y="1135" width="431" height="509" frameX="-419" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred left0001" x="1335" y="0" width="339" height="510" frameX="-416" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred down0000" x="0" y="1644" width="470" height="438" frameX="-356" frameY="-239" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred down0001" x="1674" y="0" width="428" height="447" frameX="-378" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred up0000" x="0" y="0" width="479" height="600" frameX="-482" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred up0001" x="856" y="0" width="479" height="551" frameX="-482" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred right0000" x="431" y="1135" width="529" height="457" frameX="-236" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shred right0001" x="960" y="1135" width="477" height="457" frameX="-262" frameY="-190" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

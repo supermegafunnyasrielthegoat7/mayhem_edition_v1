@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omiss.png">
+<SubTexture name="d idle0000" x="676" y="366" width="186" height="313" frameX="-447" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d idle0001" x="490" y="366" width="186" height="321" frameX="-448" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d idle0002" x="453" y="0" width="191" height="335" frameX="-442" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d up0000" x="279" y="366" width="211" height="322" frameX="-436" frameY="-227" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d up0001" x="0" y="0" width="213" height="366" frameX="-428" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d up0002" x="279" y="366" width="211" height="322" frameX="-430" frameY="-265" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0000" x="0" y="1012" width="319" height="300" frameX="-387" frameY="-304" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0001" x="258" y="691" width="319" height="312" frameX="-393" frameY="-290" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0002" x="213" y="0" width="240" height="347" frameX="-419" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0003" x="577" y="691" width="235" height="312" frameX="-424" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0004" x="812" y="691" width="235" height="312" frameX="-424" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d down0005" x="1248" y="0" width="235" height="312" frameX="-424" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d right0000" x="902" y="0" width="346" height="321" frameX="-367" frameY="-254" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d right0001" x="902" y="321" width="304" height="321" frameX="-384" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d right0002" x="0" y="366" width="279" height="325" frameX="-380" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d right0003" x="644" y="0" width="258" height="332" frameX="-380" frameY="-243" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d right0004" x="0" y="691" width="258" height="321" frameX="-380" frameY="-254" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d left0000" x="804" y="1012" width="256" height="282" frameX="-405" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d left0001" x="319" y="1012" width="241" height="286" frameX="-435" frameY="-281" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d left0002" x="560" y="1012" width="244" height="283" frameX="-417" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d left0003" x="1248" y="312" width="226" height="282" frameX="-435" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="d man im dead0000" x="1248" y="594" width="194" height="281" frameX="-453" frameY="-256" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

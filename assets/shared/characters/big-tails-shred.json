@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "shred idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "shred down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "shred up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shred left"
+		},
+		{
+			"offsets": [
+				-70,
+				10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shred right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shredder_moment",
+	"position": [
+		-300,
+		40
+	],
+	"healthicon": "big tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-120,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+<SubTexture name="cool idle0000" x="518" y="0" width="281" height="344" frameX="-366" frameY="-295" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cool idle0001" x="228" y="0" width="290" height="350" frameX="-364" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cool idle0002" x="0" y="0" width="228" height="354" frameX="-468" frameY="-264" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cool idle0003" x="0" y="354" width="231" height="344" frameX="-468" frameY="-271" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cool idle0004" x="0" y="0" width="228" height="354" frameX="-468" frameY="-264" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cool idle0005" x="0" y="0" width="228" height="354" frameX="-468" frameY="-264" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

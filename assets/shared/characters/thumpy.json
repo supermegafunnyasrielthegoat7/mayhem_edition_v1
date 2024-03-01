@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "thumpy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "thumpy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "thumpy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "thumpy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				70
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "thumpy up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thumpy",
+	"position": [
+		-250,
+		60
+	],
+	"healthicon": "thumpy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		25
+	],
+	"camera_position": [
+		-290,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

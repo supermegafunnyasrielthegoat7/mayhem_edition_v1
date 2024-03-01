@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": true,
+			"name": "foxy idle"
+		},
+		{
+			"offsets": [
+				-80,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "foxy right"
+		},
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "foxy up"
+		},
+		{
+			"offsets": [
+				-30,
+				-70
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "foxy down"
+		},
+		{
+			"offsets": [
+				120,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "foxy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foxy",
+	"position": [
+		-220,
+		-90
+	],
+	"healthicon": "foxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		-530,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

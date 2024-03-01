@@ -1,0 +1,140 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"farm",
+			"big tails",
+			[
+				255,
+				253,
+				0
+			]
+		],
+		[
+			"block",
+			"big tails",
+			[
+				255,
+				253,
+				0
+			]
+		],
+		[
+			"double-act",
+			"double",
+			[
+				255,
+				173,
+				60
+			]
+		],
+		[
+			"omission",
+			"der",
+			[
+				85,
+				85,
+				85
+			]
+		],
+		[
+			"rebound",
+			"bambi",
+			[
+				66,
+				240,
+				0
+			]
+		],
+		[
+			"inflorescence",
+			"bambi",
+			[
+				66,
+				240,
+				0
+			]
+		],
+		[
+			"delirium",
+			"retard",
+			[
+				66,
+				0,
+				0
+			]
+		],
+		[
+			"mayonnaise",
+			"retard",
+			[
+				66,
+				0,
+				0
+			]
+		],
+		[
+			"concatenation",
+			"retard",
+			[
+				66,
+				0,
+				0
+			]
+		],
+		[
+			"holy-shit-dave-fnfnt",
+			"b",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"dereliction",
+			"ronnFunny",
+			[
+				146,
+				255,
+				253
+			]
+		],
+		[
+			"insanity",
+			"idiot",
+			[
+				0,
+				195,
+				255
+			]
+		],
+		[
+			"psychosis",
+			"foxy",
+			[
+				255,
+				193,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

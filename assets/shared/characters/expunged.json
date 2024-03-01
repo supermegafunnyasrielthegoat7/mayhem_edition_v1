@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-174,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "exidle"
+		},
+		{
+			"offsets": [
+				-154,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "exdisapear"
+		},
+		{
+			"offsets": [
+				225,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftex"
+		},
+		{
+			"offsets": [
+				-370,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightex"
+		},
+		{
+			"offsets": [
+				-190,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downex"
+		},
+		{
+			"offsets": [
+				-190,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upex"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/expunged",
+	"position": [
+		-530,
+		-230
+	],
+	"healthicon": "retard",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		19,
+		17
+	],
+	"camera_position": [
+		-250,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

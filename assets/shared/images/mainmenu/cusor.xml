@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cusor.png">
+<SubTexture name="idleing0000" x="0" y="0" width="79" height="78" frameX="-652" frameY="-345" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idleing0001" x="79" y="0" width="80" height="71" frameX="-653" frameY="-348" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idleing0002" x="0" y="78" width="81" height="68" frameX="-653" frameY="-350" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

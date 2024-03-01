@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mini-tails.png"><SubTexture name="mini-tails idle0000" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0001" x="133" y="374" width="97" height="151" frameX="-409" frameY="-406" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0002" x="377" y="166" width="97" height="153" frameX="-410" frameY="-406" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0003" x="0" y="205" width="85" height="169" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0004" x="206" y="0" width="86" height="173" frameX="-413" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0005" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0006" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0007" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0008" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails idle0009" x="292" y="0" width="85" height="171" frameX="-414" frameY="-395" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails left0000" x="507" y="0" width="131" height="163" frameX="-440" frameY="-394" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails left0001" x="507" y="163" width="115" height="163" frameX="-448" frameY="-394" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails down0000" x="215" y="205" width="133" height="166" frameX="-386" frameY="-409" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails down0001" x="0" y="374" width="133" height="159" frameX="-387" frameY="-403" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails right0000" x="85" y="205" width="130" height="167" frameX="-330" frameY="-390" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails right0001" x="377" y="0" width="130" height="166" frameX="-341" frameY="-393" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails up0000" x="0" y="0" width="103" height="205" frameX="-411" frameY="-371" frameWidth="1280" frameHeight="720" />
+<SubTexture name="mini-tails up0001" x="103" y="0" width="103" height="182" frameX="-411" frameY="-380" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

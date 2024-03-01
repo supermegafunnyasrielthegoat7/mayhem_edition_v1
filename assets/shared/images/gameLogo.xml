@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gameLogo.png">
+<SubTexture name="logo what0000" x="0" y="523" width="634" height="495" frameX="-45" frameY="-136" frameWidth="720" frameHeight="720" />
+<SubTexture name="logo what0001" x="0" y="0" width="670" height="523" frameX="-27" frameY="-122" frameWidth="720" frameHeight="720" />
+<SubTexture name="logo what0002" x="670" y="0" width="656" height="511" frameX="-34" frameY="-128" frameWidth="720" frameHeight="720" />
+<SubTexture name="logo what0003" x="0" y="523" width="634" height="495" frameX="-45" frameY="-136" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
